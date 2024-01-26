@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@kaelgaming5472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaelgaming5472" height="30" width="40" /></a>
 <a href="https://discord.gg/JwWANh8EY5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JwWANh8EY5" height="30" width="40" /></a>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kaelscript" data-color="#BD5FFF" data-emoji="☕" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
