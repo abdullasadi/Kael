@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@kaelgaming5472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaelgaming5472" height="30" width="40" /></a>
 <a href="https://discord.gg/JwWANh8EY5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JwWANh8EY5" height="30" width="40" /></a>  
-<a href="[https://discord.gg/JwWANh8EY5](https://www.buymeacoffee.com/kaelscript)" target="blank"><img align="center" src="" alt="Buy Me Coffie" height="30" width="40" /></a>  
+<a href="https://www.buymeacoffee.com/kaelscript" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/892775188058497054/1207229887883124736/buymeacoffee.174x256.png?ex=65dee372&is=65cc6e72&hm=5ea190a2aaa31368e675d98613860ac8357b30948d07a1e7e1d54e2511c1daa0&" alt="Buy Me Coffie" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
