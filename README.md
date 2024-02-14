@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, This Is Kael</h1>
 <h3 align="center">A Programmer from Bangladesh</h3>
+<h3 align="center"><a href="https://www.buymeacoffee.com/kaelscript"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kaelscript&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullasadi&label=Profile%20views&color=0e75b6&style=flat" alt="abdullasadi" /> </p>
 
@@ -8,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@kaelgaming5472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaelgaming5472" height="30" width="40" /></a>
-<a href="https://discord.gg/JwWANh8EY5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JwWANh8EY5" height="30" width="40" /></a>  
-<a href="https://www.buymeacoffee.com/kaelscript" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/892775188058497054/1207229887883124736/buymeacoffee.174x256.png?ex=65dee372&is=65cc6e72&hm=5ea190a2aaa31368e675d98613860ac8357b30948d07a1e7e1d54e2511c1daa0&" alt="Buy Me Coffie" height="40" width="30" /></a>  
+<a href="https://discord.gg/JwWANh8EY5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JwWANh8EY5" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
